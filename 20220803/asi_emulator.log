@@ -1,0 +1,937 @@
+kgofron@kgofron-HP-Z6-G4-Workstation:~/Downloads/TimePix$ java -jar tpx3_emu-2.3.6-3.jar 
+Jun 29, 2022 6:40:16 PM com.amscins.emulator.Emulator <clinit>
+INFO: Network 0 selected
+Jun 29, 2022 6:40:16 PM com.amscins.emulator.Tpx3Replay <init>
+INFO: No replay file given
+
+Jul 13, 2022 10:21:22 AM com.amscins.emulator.Emulator lambda$run$0
+WARNING: Empty
+Jul 13, 2022 10:21:40 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 612067950
+Jul 13, 2022 10:21:45 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:22:36 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295616
+Jul 13, 2022 10:22:46 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:22:46 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295360
+Jul 13, 2022 10:22:56 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:22:56 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 352518400
+Jul 13, 2022 10:22:56 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:22:56 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295616
+Jul 13, 2022 10:23:06 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:23:06 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295618
+Jul 13, 2022 10:23:16 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:23:16 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295616
+Jul 13, 2022 10:23:26 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:23:26 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295618
+Jul 13, 2022 10:23:36 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:23:36 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295362
+Jul 13, 2022 10:23:46 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:23:46 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected -2143289088
+Jul 13, 2022 10:23:56 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:23:58 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 1195725856
+Jul 13, 2022 10:24:16 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:24:17 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 9031745
+Jul 13, 2022 10:24:26 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 1224736768
+Jul 13, 2022 10:24:26 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 64
+Jul 13, 2022 10:24:26 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 22
+Jul 13, 2022 10:24:27 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:24:27 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 1212501072
+Jul 13, 2022 10:24:31 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:24:36 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:24:36 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:24:36 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:24:41 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 50399744
+Jul 13, 2022 10:24:51 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:25:17 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 166
+Jul 13, 2022 10:25:27 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:25:38 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295618
+Jul 13, 2022 10:25:45 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 63
+Jul 13, 2022 10:25:48 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:25:55 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:25:55 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 64
+Jul 13, 2022 10:25:56 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 1195725856
+Jul 13, 2022 10:26:05 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:26:05 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 63
+Jul 13, 2022 10:26:06 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:26:06 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295618
+Jul 13, 2022 10:26:15 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:26:15 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 62
+Jul 13, 2022 10:26:17 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:26:25 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:26:53 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 1195725856
+Jul 13, 2022 10:27:03 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:27:03 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 1195725856
+Jul 13, 2022 10:27:14 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 13, 2022 10:40:28 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 19, 2022 6:50:09 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Jul 20, 2022 3:50:02 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 2 triggers.
+Jul 20, 2022 5:00:17 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 2 triggers.
+Jul 20, 2022 5:02:00 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 2 triggers.
+Jul 20, 2022 5:02:36 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 10 triggers.
+Jul 20, 2022 5:02:54 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 20, 2022 5:09:56 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 20, 2022 5:10:33 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 20, 2022 5:11:28 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 20, 2022 5:22:46 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 20, 2022 5:22:50 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 20, 2022 5:23:16 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 20, 2022 5:23:58 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 22, 2022 2:09:38 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 22, 2022 2:09:45 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 22, 2022 2:45:25 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 22, 2022 2:55:36 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 22, 2022 3:29:10 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 22, 2022 3:55:12 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 22, 2022 5:55:54 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 22, 2022 5:56:20 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 26, 2022 12:34:32 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 26, 2022 1:12:56 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 26, 2022 3:25:51 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 26, 2022 4:01:09 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 26, 2022 4:40:55 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 26, 2022 7:14:46 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 27, 2022 10:21:33 AM com.amscins.emulator.Emulator lambda$run$0
+WARNING: Empty
+Jul 27, 2022 10:21:55 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 612067950
+Jul 27, 2022 10:22:00 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:22:43 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295616
+Jul 27, 2022 10:22:53 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:22:53 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295360
+Jul 27, 2022 10:23:03 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:23:03 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 352518400
+Jul 27, 2022 10:23:03 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:23:03 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295616
+Jul 27, 2022 10:23:13 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:23:13 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295618
+Jul 27, 2022 10:23:23 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:23:23 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295616
+Jul 27, 2022 10:23:33 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:23:33 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295618
+Jul 27, 2022 10:23:43 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:23:43 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295362
+Jul 27, 2022 10:23:53 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:23:53 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected -2143289088
+Jul 27, 2022 10:24:03 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:24:05 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 1195725856
+Jul 27, 2022 10:24:23 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:24:24 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 9031745
+Jul 27, 2022 10:24:33 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 1224736768
+Jul 27, 2022 10:24:33 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 22
+Jul 27, 2022 10:24:33 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 64
+Jul 27, 2022 10:24:34 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:24:34 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 1212501072
+Jul 27, 2022 10:24:38 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:24:43 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:24:43 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:24:43 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:24:48 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 50399744
+Jul 27, 2022 10:24:58 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:25:24 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 166
+Jul 27, 2022 10:25:34 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:25:42 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 63
+Jul 27, 2022 10:25:49 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295618
+Jul 27, 2022 10:25:52 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:25:52 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 64
+Jul 27, 2022 10:25:59 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:26:02 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:26:02 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 63
+Jul 27, 2022 10:26:10 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 1195725856
+Jul 27, 2022 10:26:12 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:26:12 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 62
+Jul 27, 2022 10:26:20 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:26:20 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 369295618
+Jul 27, 2022 10:26:22 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:26:31 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:27:02 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 1195725856
+Jul 27, 2022 10:27:12 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:27:12 AM com.amscins.emulator.Tpx3Emulator process
+WARNING: Not expected 1195725856
+Jul 27, 2022 10:27:23 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 10:40:40 AM com.amscins.emulator.Emulator lambda$run$0
+SEVERE: Exception 
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:353)
+	at com.amscins.emulator.Emulator.lambda$run$0(Emulator.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Jul 27, 2022 2:11:57 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 28, 2022 7:56:27 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 29, 2022 12:30:18 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.7s, Trigger Period: 0.8s) for 1000 triggers.
+Jul 29, 2022 12:30:50 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Jul 29, 2022 12:31:45 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Jul 29, 2022 2:34:52 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 01, 2022 2:10:35 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 1:28:49 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 1:29:54 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 1:30:53 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 1:58:33 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 1:59:25 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 2:11:59 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 3:54:16 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 3:57:31 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 3:58:20 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 4:01:08 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 4:36:54 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 4:37:57 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 5:30:54 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 5:35:49 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 6:10:27 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 6:29:46 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 6:30:42 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 6:32:03 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 6:33:25 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.2s) for 1000 triggers.
+Aug 02, 2022 6:34:37 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 02, 2022 6:35:18 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 02, 2022 6:36:23 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 02, 2022 6:37:01 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 02, 2022 6:40:17 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 02, 2022 6:40:37 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 02, 2022 6:40:55 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 02, 2022 6:41:13 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 02, 2022 6:41:44 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 02, 2022 6:42:10 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 02, 2022 6:42:23 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 02, 2022 6:48:55 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 03, 2022 12:20:42 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 03, 2022 12:23:41 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 1.0s) for 5 triggers.
+Aug 03, 2022 12:24:22 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.8s, Trigger Period: 0.9s) for 1000 triggers.
+Aug 03, 2022 12:30:21 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.8s, Trigger Period: 0.9s) for 1000 triggers.
+Aug 03, 2022 12:33:00 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.12s) for 1000 triggers.
+Aug 03, 2022 12:34:43 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.12s) for 1000 triggers.
+Aug 03, 2022 12:37:58 PM com.amscins.emulator.Tpx3Emulator lambda$sendFrames$0
+INFO: Start sending (Exposure Time: 0.1s, Trigger Period: 0.12s) for 1000 triggers.
+Aug 03, 2022 12:46:20 PM com.amscins.emulator.Emulator lambda$run$0
+WARNING: Empty
+
